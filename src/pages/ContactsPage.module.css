@@ -1,0 +1,12 @@
+.container {
+  padding: 40px;
+  background-color: #fafafa;
+  min-height: 100vh;
+}
+
+.title {
+  font-size: 30px;
+  text-align: center;
+  margin-bottom: 20px;
+  color: #333;
+}

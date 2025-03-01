@@ -1,0 +1,37 @@
+.container {
+  text-align: center;
+  padding: 50px;
+  background-color: #f0f0f0;
+  min-height: 100vh;
+}
+
+.title {
+  font-size: 36px;
+  margin-bottom: 20px;
+  color: #333;
+}
+
+.description {
+  font-size: 18px;
+  margin-bottom: 40px;
+  color: #666;
+}
+
+.links {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+.button {
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 5px;
+  font-size: 18px;
+}
+
+.button:hover {
+  background-color: #0056b3;
+}
