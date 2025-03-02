@@ -1,5 +1,5 @@
 import RegistrationForm from "../components/RegistrationForm/RegistrationForm.jsx";
-import s from "./RegisterPage.module.css";
+import s from "./RegistrationPage.module.css";
 
 const RegisterPage = () => {
   return (
